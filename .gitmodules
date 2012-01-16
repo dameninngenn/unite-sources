@@ -1,0 +1,3 @@
+[submodule "perl-special-vars"]
+	path = perl-special-vars
+	url = git@github.com:dameninngenn/unite-source-perl-special-vars.git
