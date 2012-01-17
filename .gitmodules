@@ -1,3 +1,6 @@
 [submodule "perl-special-vars"]
 	path = perl-special-vars
 	url = git@github.com:dameninngenn/unite-source-perl-special-vars.git
+[submodule "my-help"]
+	path = my-help
+	url = git@github.com:dameninngenn/unite-source-my-help.git
